@@ -1,9 +1,10 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # Kitap--Web
+Bu uygulama, React ile geliştirilmiş bir kitapçı web uygulamasıdır. Kullanıcılar, farklı kategorilere göre kitapları inceleyebilir ve arama koşullarını içeren kitapları filtreleyebilirler. Uygulama, her bir bölümü detaylı olarak sunarak kullanıcıların kitapları hakkında daha fazla bilgi edinmelerini sağlar. Kitaplar, kategorilere göre bulunabilir ve arama işlevleri sayesinde kullanıcıların istedikleri kitaplara hızlı bir şekilde erişebilir. 
+
+# Kullanılan Teknolojiler
+
+HTML, CSS, javaScript
+
+# Ekran Gif
+
+![Video Screen1731358035371 (1)](https://github.com/user-attachments/assets/d7d08d37-6fe6-4229-9690-e161c383cd89)
